@@ -6,8 +6,8 @@ This repository includes well-documented code, preprocessing techniques, model t
 
 
 🗂️ Assignment Index
-1. 📩 SMS Spam Detection
-2. 
+📩 SMS Spam Detection
+
 Dataset: SMSSpamCollection
 
 Techniques: Text cleaning, tokenization, stemming, stopword removal
@@ -18,8 +18,8 @@ Models: Naive Bayes, Random Forest
 
 Metrics: Accuracy, Confusion Matrix, Precision, Recall, F1-score
 
-2. 🚗 Toyota Corolla Price Prediction
-3. 
+🚗 Toyota Corolla Price Prediction
+
 Dataset: Toyota Corolla from UCI ML Repository
 
 Objective: Predict car price using linear regression
@@ -28,7 +28,8 @@ Steps: Data cleaning, feature engineering, multiple linear regression
 
 Evaluation: R² Score, MAE, RMSE, residual analysis
 
-3. 🔬 Glass Type Classification
+🔬 Glass Type Classification
+
 Dataset: Glass Identification Data Set
 
 Task: Classify glass types from chemical features
@@ -37,7 +38,8 @@ Models: Random Forest, Bagging, Boosting (AdaBoost, Gradient Boosting)
 
 Evaluation: Accuracy, confusion matrix, model comparison
 
-4. 💬 Sentiment Analysis with BERT
+💬 Sentiment Analysis with BERT
+
 Dataset: Customer Reviews (text + rating)
 
 Goal: Binary classification (positive/negative sentiment)
@@ -48,7 +50,8 @@ Frameworks: Hugging Face Transformers, PyTorch
 
 Evaluation: Accuracy, classification report
 
-5. 📉 EDA & Visualization Assignments
+📉 EDA & Visualization Assignments
+
 Tools: pandas, seaborn, matplotlib
 
 Tasks: Handling missing values, outlier detection, visual analysis
